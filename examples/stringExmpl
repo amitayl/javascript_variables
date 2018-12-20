@@ -1,0 +1,2 @@
+var str = "Name";
+console.log("my string is" + str);
